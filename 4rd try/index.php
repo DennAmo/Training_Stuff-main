@@ -1,6 +1,6 @@
 <?php $servername = "localhost";
 $username = "id21203121_builds";
-$password = "Blablacar11*/";
+$password = "obsoletepassword";
 $dbname = "id21203121_builds";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
